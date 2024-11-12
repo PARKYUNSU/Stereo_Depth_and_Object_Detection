@@ -199,6 +199,8 @@ def compute_sgbm_disparity(left_image, right_image, num_disparities=5*16,
 
 ![image](https://github.com/user-attachments/assets/0e9cfd84-00b4-45f7-b8d2-32306bfe9839)
 
+> TP값 기준 모든 클래스 80% 이상으로 높은 성능을 확인 했습니다.
+> 
 
 results(loss, mAP, precision, reacall)
 
@@ -210,8 +212,6 @@ results(loss, mAP, precision, reacall)
 > 200epochs동안 Overfitting 없이 학습 회수에 따라 성능이 개선 됨을 확인 했습니다.
 > 
 
-> TP값 기준 모든 클래스 80% 이상으로 높은 성능을 확인 했습니다.
-> 
 
 ---
 
