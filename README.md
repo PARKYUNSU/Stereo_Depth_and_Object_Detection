@@ -217,8 +217,6 @@ results(loss, mAP, precision, reacall)
 
 # 4. 시연영상
 
-Plz! click image!
+![ezgif-1-490eb03457](https://github.com/user-attachments/assets/1b70e7a6-5c12-44c7-8565-55bf5188bf2b)
 
-<a href="https://youtu.be/so9aCNwSJqw">
-  <img src="https://github.com/user-attachments/assets/88a6be51-54ba-4b61-8146-52b101775e1c" alt="시연영상" style="width: 50%; height: auto;">
-</a>
+
