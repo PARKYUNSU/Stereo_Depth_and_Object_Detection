@@ -154,7 +154,7 @@ def compute_sgbm_disparity(left_image, right_image, num_disparities=5*16,
 
 <img src="https://github.com/user-attachments/assets/8acd736a-8d67-402d-acc4-4d9a841549aa" width=600>
 
-1. **1245 X 375 (원본비율) Depth 결과**
+2. **1245 X 375 (원본비율) Depth 결과**
 
 
 <img src="https://github.com/user-attachments/assets/86c6cc81-f074-4eca-b6ee-60f0934e6e54" width=1000>
@@ -162,7 +162,7 @@ def compute_sgbm_disparity(left_image, right_image, num_disparities=5*16,
 ![image](https://github.com/user-attachments/assets/9bc0922f-104b-4c8f-b508-72d43b9e65c4)
 
 
-1.  **Resizing이 Stereo Vision Disparity 안정성에 미치는 영향**
+3. **Resizing이 Stereo Vision Disparity 안정성에 미치는 영향**
 - **640 X 640**
     
 <img src="https://github.com/user-attachments/assets/40a48241-dc1f-490e-927e-8df7d8f48617" width=400>
