@@ -195,7 +195,7 @@ def compute_sgbm_disparity(left_image, right_image, num_disparities=5*16,
 ![image](https://github.com/user-attachments/assets/2b7a4ce3-6b18-43b1-8fed-0303c4310020)
 
 
-## 3.2 Epochs에 따른 성능 변화
+## 3.3 Epochs에 따른 성능 변화
 
 ![image](https://github.com/user-attachments/assets/0e9cfd84-00b4-45f7-b8d2-32306bfe9839)
 
