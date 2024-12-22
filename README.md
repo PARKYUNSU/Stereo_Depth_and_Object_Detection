@@ -1,5 +1,11 @@
 # Stereo Depth and Object Detection
- 
+
+
+## VIP 영상
+![ezgif-1-490eb03457](https://github.com/user-attachments/assets/1b70e7a6-5c12-44c7-8565-55bf5188bf2b)
+
+---
+
 ## 자율 주행을 위한 객체 인식 및 거리 측정 모델 개발
 
 - 참여 인원 : 박윤수, 윤병호, 차준영, 최현우
@@ -215,6 +221,6 @@ results(loss, mAP, precision, reacall)
 
 # 4. 시연영상
 
-![ezgif-1-490eb03457](https://github.com/user-attachments/assets/1b70e7a6-5c12-44c7-8565-55bf5188bf2b)
+
 
 
