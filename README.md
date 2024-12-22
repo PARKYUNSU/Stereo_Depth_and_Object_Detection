@@ -4,6 +4,7 @@
 ## VIP 영상
 ![ezgif-1-490eb03457](https://github.com/user-attachments/assets/1b70e7a6-5c12-44c7-8565-55bf5188bf2b)
 
+Link : https://www.youtube.com/watch?v=so9aCNwSJqw
 
 ## 자율 주행을 위한 객체 인식 및 거리 측정 모델 개발
 
@@ -214,12 +215,4 @@ results(loss, mAP, precision, reacall)
 
 > 200epochs동안 Overfitting 없이 학습 회수에 따라 성능이 개선 됨을 확인 했습니다.
 > 
-
-
----
-
-# 4. 시연영상
-
-
-
 
